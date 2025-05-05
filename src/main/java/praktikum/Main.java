@@ -5,6 +5,6 @@ package praktikum;
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello Java");
-	System.out.println("Hello Jane");
+	System.out.println("Goodbye Jane");
     }
 }
